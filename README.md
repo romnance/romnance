@@ -1,5 +1,7 @@
 ### Hi there 👋
+I'm a web developer based in Stockholm 🌱
 
+<img src="https://www.tommoody.us/images/dec10/dumpfm-tommoody-mirrrroring_mac_ocean_bw.gif" alt="old mac with the ocean on the screen" width="340px" />
 <!--
 **romnance/romnance** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
