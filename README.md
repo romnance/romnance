@@ -2,7 +2,7 @@
 I'm a web developer based in Stockholm 🌱<br>
 Currently working as a frontend developer at [Relex Solutions](https://www.relexsolutions.com/) 🔭<br>
 In my free time busy with 🔮 [thefool.app](https://thefool.app/) <br>
-Second version coming soon 📅
+Version 2.0 coming soon 📅
 
 <img src="https://www.tommoody.us/images/dec10/dumpfm-tommoody-mirrrroring_mac_ocean_bw.gif" alt="old mac with the ocean on the screen" width="340px" />
 <!--
