@@ -1,8 +1,11 @@
 ### Hi there 👋
 I'm a web developer based in Stockholm 🌱<br>
-Currently working as a frontend developer at [Relex Solutions](https://www.relexsolutions.com/) 🔭<br>
+Currently working as a software engineer at [Relex Solutions](https://www.relexsolutions.com/) 🔭<br>
+Check out my website 🔗 [anromanova.fyi](https://anromanova.fyi/)<br>
 In my free time busy with 🔮 [thefool.app](https://thefool.app/) <br>
-Version 2.0 is published 📅
+Version 2.0 is published 📅<br>
+<br>
+Building [HIDE](https://hide.sh/) ⚡⚡⚡ – an AI-powered tool streamlining software development 🔗 [hide.sh](https://hide.sh/)<br>
 
 <img src="https://www.tommoody.us/images/dec10/dumpfm-tommoody-mirrrroring_mac_ocean_bw.gif" alt="old mac with the ocean on the screen" width="340px" />
 <!--
